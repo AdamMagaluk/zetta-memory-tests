@@ -8,5 +8,13 @@
     "start": "node server.js"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "heapdump": "^0.3.6",
+    "levelup": "^1.2.1",
+    "memdown": "^1.0.0",
+    "node-uuid": "^1.4.3",
+    "zetta": "^0.30.0",
+    "zetta-photocell-mock-driver": "^0.5.0"
+  }
 }
